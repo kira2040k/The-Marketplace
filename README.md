@@ -25,7 +25,7 @@ messages
 in column:
 message_content
 user:jake
-password:@b_ENXkGYUCAv3zJ
+with password in column message_content
 -connect with ssh 
 -sudo -l
 [+]output[+]
