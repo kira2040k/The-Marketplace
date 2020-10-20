@@ -1,3 +1,5 @@
+lab link: https://tryhackme.com/room/marketplace
+
 nmap -sV -p- 10.10.149.193 
 
 output :
